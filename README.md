@@ -2,7 +2,7 @@
 
 AI-Powered SOC 2 Readiness Agent
 
-> **Note**: This is a testing repository created for a hackathon. The codebase is intentionally non-compliant with SOC 2 standards for demonstration and educational purposes.
+> **Note**: This is a testing repository created for a hackathon (Part of the CompliantByDefault project). The codebase is intentionally non-compliant with SOC 2 standards for demonstration and educational purposes.
 
 ## Overview
 

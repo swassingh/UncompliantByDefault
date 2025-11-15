@@ -1,0 +1,66 @@
+soc2_controls:
+  - id: CC1.1
+    name: "Control Environment"
+    description: "The entity demonstrates a commitment to integrity and ethical values."
+    category: "Control Environment"
+    
+  - id: CC2.1
+    name: "Communication and Information"
+    description: "The entity obtains or generates and uses relevant, quality information to support the functioning of internal control."
+    category: "Communication and Information"
+    
+  - id: CC3.1
+    name: "Risk Assessment"
+    description: "The entity specifies suitable objectives and identifies risks to achievement of those objectives."
+    category: "Risk Assessment"
+    
+  - id: CC4.1
+    name: "Monitoring Activities"
+    description: "The entity selects, develops, and performs ongoing and/or separate evaluations to ascertain whether the components of internal control are present and functioning."
+    category: "Monitoring Activities"
+    
+  - id: CC5.1
+    name: "Control Activities"
+    description: "The entity selects and develops control activities that contribute to the mitigation of risks to the achievement of objectives."
+    category: "Control Activities"
+    
+  - id: CC6.1
+    name: "Logical and Physical Access Controls"
+    description: "The entity implements logical access security software, infrastructure, and architectures over protected information assets to protect them from security events to meet the entity's objectives."
+    category: "Logical and Physical Access Controls"
+    
+  - id: CC6.2
+    name: "Authentication and Authorization"
+    description: "The entity restricts access to protected information assets through the use of authentication and authorization controls."
+    category: "Logical and Physical Access Controls"
+    
+  - id: CC6.3
+    name: "System Configuration"
+    description: "The entity disables or removes unnecessary system components, functions, ports, protocols, and services to prevent unauthorized access."
+    category: "Logical and Physical Access Controls"
+    
+  - id: CC6.6
+    name: "Data Transmission and Disposal"
+    description: "The entity implements controls to prevent or detect and act upon the unauthorized access, use, or modification of information assets."
+    category: "Logical and Physical Access Controls"
+    
+  - id: CC7.1
+    name: "System Operations"
+    description: "The entity uses detection and monitoring procedures to identify (1) changes to configurations that result in the introduction of new vulnerabilities, and (2) susceptibilities to newly discovered vulnerabilities."
+    category: "System Operations"
+    
+  - id: CC7.2
+    name: "System Monitoring"
+    description: "The entity monitors system components and the operation of those components to identify anomalies that could indicate that a security event has occurred or could occur."
+    category: "System Operations"
+    
+  - id: CC7.3
+    name: "Incident Response"
+    description: "The entity responds to identified security incidents by executing a defined incident response program to investigate, contain, and remediate incidents, as appropriate."
+    category: "System Operations"
+    
+  - id: CC8.1
+    name: "Change Management"
+    description: "The entity authorizes, designs, develops, configures, documents, tests, approves, and implements changes to infrastructure, data, software, and procedures to meet the entity's objectives."
+    category: "Change Management"
+

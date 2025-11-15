@@ -44,10 +44,6 @@ yarn-error.log*
 .env.local
 .env*.local
 
-# Reports
-reports/
-*.json
-*.md
 
 # OS
 .DS_Store
